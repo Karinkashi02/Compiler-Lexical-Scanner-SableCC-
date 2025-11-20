@@ -21,9 +21,13 @@ COMMAND PROMPT COMMAND:
 - Compile with commands:
 
 java -jar lib\sablecc.jar lexing.grammar
+
 javac lexing\node\*.java
+
 javac lexing\lexer\*.java
+
 javac lexing\analysis\*.java
+
 javac lexing\Lexing.java
 
 - Run the the sablecc with "java lexing.Lexing"
