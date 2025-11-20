@@ -8,11 +8,11 @@ How to install sablecc:
 
 Search Environment Variables (Windows 10): go to System variables -> click Path -> edit -> new (add to list) -> OK
 
-4. Copy path of java (jdk) to bin -> paste in Environment Variables
+3. Copy path of java (jdk) to bin -> paste in Environment Variables
 
-5. Open bin folder -> edit sablecc.bat file (Windows Batch File) -> copy path to lib folder -> paste in the absolute path
+4. Open bin folder -> edit sablecc.bat file (Windows Batch File) -> copy path to lib folder -> paste in the absolute path
 
-6. Run sablecc in DOS (cmd) 
+5. Run sablecc in DOS (cmd) 
 
 COMMAND PROMPT COMMAND:
 - cd to your sablecc main folder path
